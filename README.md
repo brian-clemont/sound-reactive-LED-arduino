@@ -8,11 +8,13 @@ note:The LED's are standard RGB not addressable
 
 - [Procedure](#procedure)
 - [Build With](#buildWith)
+- [Snap Shots](#snaps)
 - [License](#license)
 
 ## Procedure
 
+
 ## Build With
-* [Arduino](https://www.arduino.cc/en/Guide/HomePage) - The Micro-Controller Used
+* [Arduino](https://www.arduino.cc/en/Guide/HomePage) - Microcontroller
 
 ## Licence
