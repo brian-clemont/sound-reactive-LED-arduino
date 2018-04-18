@@ -2,7 +2,7 @@
 Its about a mini LED tower powered using arduino (nano ATmega328 CH340G). 
 where the LEDs just dont light up, but are reacted by sound input
 ```
-note:The LED's are standard RGB not addressable
+note:The LED's are standard RGB not the addressable ones
 ```
 ## Table of Contents
 
