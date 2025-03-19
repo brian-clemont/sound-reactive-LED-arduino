@@ -1,20 +1,19 @@
-# Sound Reactive LED Tower
-Its about a mini LED tower powered using arduino (nano ATmega328 CH340G). 
-where the LEDs just dont light up, but are reacted by sound input
-```
-note:The LED's are standard RGB not the addressable ones
-```
+
 ## Table of Contents
 
 - [Procedure](#procedure)
-- [Build With](#buildWith)
-- [Snap Shots](#snaps)
+- [Build With](#build-with)
+- [Snap Shots](#snap-shots)
 - [License](#license)
 
 ## Procedure
-
+(TBD: Add your step-by-step guide here)
 
 ## Build With
 * [Arduino](https://www.arduino.cc/en/Guide/HomePage) - Microcontroller
 
-## Licence
+## Snap Shots
+You can check out the project images [here](https://photos.app.goo.gl/trRh3U44JaC4fJRR6).
+
+## License
+(TBD: Add your license details here)
